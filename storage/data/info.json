@@ -1,0 +1,9 @@
+{
+    "nombre" : "Fabian",
+    "apellido": "Caballero Esteban",
+    "edad": 23,
+    "pasatiempos": ["Practicar Futbol", "programar"],
+    "correos": "fabi.caballero.2002@gmail.com",
+    "direccion": "calle 103 c #15-29",
+    "Estatura" : "1.77"
+}
